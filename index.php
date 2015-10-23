@@ -168,10 +168,12 @@
 						<h3>Ada 3 Plihan Paket untuk Klien Spesial Seperti Anda</h3>
 						<div class="row">
 							<div class="col-md-6">
-								<p style="text-align: justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi adipisci illo, voluptatum ipsam fuga error commodi architecto, laudantium culpa tenetur at id, beatae placeat deserunt iure quas voluptas fugit eveniet.</p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo ducimus explicabo quibusdam temporibus deserunt doloremque pariatur ea, animi a. Delectus similique atque eligendi, enim vel reiciendis deleniti neque aliquid, sit?</p>
-								<p>Vitae dolores quam magnam accusantium nam, voluptatibus expedita delectus, dolorum odio magni ut nemo nihil ex earum pariatur molestias velit eveniet, facere autem saepe aut. Ut minima itaque porro facere. Cumque vitae autem, dignissimos molestiae necessitatibus culpa aliquam deleniti soluta sunt voluptatibus tenetur, unde dolorem eligendi doloribus quibusdam facere totam. Possimus atque deserunt numquam aliquam magnam, facilis officiis illo alias ipsa voluptas laborum, praesentium eveniet nobis velit voluptatem odio eligendi, corporis et iste distinctio! Repellendus, id, ad.</p>
+								<p style="text-align: justify">Kami Sadar, terdapat banyak sekali web developer seperti Kami di sana, namun 1 Hal saja yang perlu diketahui, semua pasti memiliki kelebihan sendiri-sendiri, dan kelebihan kami ada pada
+								Pembuatan Web Company Profile dengan Design yang inovatif, menarik, dan responsif, sehingga Calon Buyer atau Customer anda akan lebih Percaya dan menaruh value Trust yang tinggi terhadap usaha Anda
+								</p>
+								<p style="text-align: justify">Kami mempunyai beberapa pilihan Paket yang sesuai dengan Anda</p>
 							</div>
+							
 							<div class="col-md-6">
 								<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 									<div class="panel panel-default">
