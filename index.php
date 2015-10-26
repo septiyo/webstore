@@ -956,9 +956,94 @@ include "koneksi.php";
                                 EMAIL = '$email',
                                 PESAN = '$pesan'";
 
-				echo $sql;
+				//echo $sql;
 
 				$hasil = mysqli_query($mysqli, $sql);
+
+				$message = "
+		  <html>
+		     <body>
+
+		        <p>Pesan: ".$pesan."<p><br><br>
+		        <p>Dari: ".$email."<p><br><br>
+	                 <p>Nama: ".$nama     ."<p><br><br>
+
+		     </body>
+		  </html>";
+
+
+
+				$headers  = 'MIME-Version: 1.0' . "\r\n";
+				$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+
+
+				$mail_ke_ane = mail('septiyou@gmail.com',$subjek,$message,$headers);
+
+
+
+				$message2 = "<html>
+  <head>
+     <title>Email Replay</title>
+  </head>
+
+  <body style='background:#f5f5f5;'>
+  <table align='center' width='700px' height='650' height='600' cellpadding='0' cellspacing='1' bgcolor='#FFFFFF' border='0' style='font-family:Verdana, Geneva, sans-serif;'>
+     <tr height='150'>
+        <td colspan='2'><img src='http://septiyo.com/bikinweb/header-email.jpg'></td>
+     </tr>
+     <tr height='100'>
+        <td valign='top' colspan='2'><h2 style='font-family:Verdana, Geneva, sans-serif;font-size:20px;'>Terima Kasih Telah Menghubungi webstore.septiyo.com</h2>
+     <p style='font-family:Verdana, Geneva, sans-serif;'>
+        Kami akan menghubungi anda secepatnya, terima kasih
+
+        </td>
+       </tr>
+       <tr valign='top'>
+          <td>
+        Untuk Mengunjungi Blog kami</td><td> <a href='http://septiyo.com' style='text-decoration:none;padding-left:274px;'><input type='button' value='septiyo.com' style='background-color:#74a532;color:#FFF;'></a></td>
+       </tr>
+        <tr valign='top'>
+          <td>
+        Untuk Kembali Ke Website </td><td><a href='http://webstore.septiyo.com' style='text-decoration:none;padding-left:274px;'><input type='button' value='bikinweb.septiyo.com' style='background-color:#74a532;color:#FFF;'></a></td>
+        </tr>
+        <tr valign='top'>
+           <td>
+        Untuk Download Portofolio</td><td> <a href='http://septiyo.com/portofolio.pdf' style='text-decoration:none;padding-left:275px;'><input type='button' value='Download Portofolio' style='background-color:#74a532;color:#FFF;'></a><td>
+        </tr>
+        <tr><td colspan='2'>
+
+        <div style='padding-left:550px'>
+
+        Terima Kasih<br>
+        Hormat Kami<br><br><br>
+
+
+        Septiyo.com
+        </div>
+
+        </p>
+        </td>
+
+     </tr>
+     <tr height='70px'>
+        <td colspan='2'><img src='http://septiyo.com/bikinweb/footer-email.jpg'></td>
+     </tr>
+  </table>
+
+
+
+  </body>
+
+</html>";
+
+
+
+				$headers2  = 'MIME-Version: 1.0' . "\r\n";
+				$headers2 .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+
+
+				$mail_ke_orange = mail($email,"Dari Bikinweb.septiyo.com",$message2,$headers2);
+
 
 				if ($hasil) {
 
@@ -977,7 +1062,6 @@ include "koneksi.php";
 
 				}
 			}
-
 
 			?>
 
