@@ -898,18 +898,18 @@
 									<li><i class="fa fa-map-marker pr-10"></i> Jl Amarta RT 22 Rw 3 Gedangan Sidoarjo</li>
 									<li><i class="fa fa-phone pr-10"></i> +62 813 5780 1509 WA</li>
 									<li><i class="fa fa-envelope-o pr-10"></i> septiyou@email.com</li>
-									<li><i class="fa fa-bb-o pr-10"></i> PIN BBM : 59D98405</li>
+									<li><i class="fa fa-envelope-o pr-10"></i> PIN BBM : 59D98405</li>
 
 								</ul>
 								<ul class="social-links">
-									<li class="facebook"><a target="_blank" href="https://www.facebook.com/pages/HtmlCoder/714570988650168"><i class="fa fa-facebook"></i></a></li>
-									<li class="twitter"><a target="_blank" href="https://twitter.com/HtmlcoderMe"><i class="fa fa-twitter"></i></a></li>
-									<li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
-									<li class="skype"><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
-									<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
-									<li class="youtube"><a target="_blank" href="http://www.youtube.com"><i class="fa fa-youtube"></i></a></li>
-									<li class="flickr"><a target="_blank" href="http://www.flickr.com"><i class="fa fa-flickr"></i></a></li>
-									<li class="pinterest"><a target="_blank" href="http://www.pinterest.com"><i class="fa fa-pinterest"></i></a></li>
+									<!--li-- class="facebook"><a target="_blank" href="https://www.facebook.com/pages/HtmlCoder/714570988650168"><i class="fa fa-facebook"></i></a></li-->
+									<li class="twitter"><a target="_blank" href="https://twitter.com/septiyo_21"><i class="fa fa-twitter"></i></a></li>
+									<li class="googleplus"><a target="_blank" href="https://plus.google.com/114770724344738316177/posts"><i class="fa fa-google-plus"></i></a></li>
+									<!--li-- class="skype"><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li-->
+									<li class="linkedin"><a target="_blank" href="https://www.linkedin.com/profile/view?id=AAIAABPgk4YBytZviVRH_aQMo-kKbKQFK_yMb5M&trk=nav_responsive_tab_profile_pic"><i class="fa fa-linkedin"></i></a></li>
+									<!--li-- class="youtube"><a target="_blank" href="http://www.youtube.com"><i class="fa fa-youtube"></i></a></li-->
+									<!--li class="flickr"><a target="_blank" href="http://www.flickr.com"><i class="fa fa-flickr"></i></a></li>
+									<li-- class="pinterest"><a target="_blank" href="http://www.pinterest.com"><i class="fa fa-pinterest"></i></a></li-->
 								</ul>
 							</div>
 						</div>
