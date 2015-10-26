@@ -891,12 +891,15 @@
 					<div class="row">
 						<div class="col-sm-6">
 							<div class="footer-content">
-								<p class="large">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel nam magnam natus tempora cumque, aliquam deleniti voluptatibus voluptas. Repellat vel, et itaque commodi iste ab, laudantium voluptas deserunt nobis.</p>
+								<p class="large">Anda tidak perlu ragu untuk bertanya dan menghubungi kami. Jika itu tentag Web Company Profile bagi Usaha anda, maka kamilah ahlinya. Kami akan lakukan yang
+									terbaik untuk Anda.
+									.</p>
 								<ul class="list-icons">
-									<li><i class="fa fa-map-marker pr-10"></i> One infinity loop, 54100</li>
-									<li><i class="fa fa-phone pr-10"></i> +00 1234567890</li>
-									<li><i class="fa fa-fax pr-10"></i> +00 1234567891 </li>
-									<li><i class="fa fa-envelope-o pr-10"></i> your@email.com</li>
+									<li><i class="fa fa-map-marker pr-10"></i> Jl Amarta RT 22 Rw 3 Gedangan Sidoarjo</li>
+									<li><i class="fa fa-phone pr-10"></i> +62 813 5780 1509 WA</li>
+									<li><i class="fa fa-envelope-o pr-10"></i> septiyou@email.com</li>
+									<li><i class="fa fa-bb-o pr-10"></i> PIN BBM : 59D98405</li>
+
 								</ul>
 								<ul class="social-links">
 									<li class="facebook"><a target="_blank" href="https://www.facebook.com/pages/HtmlCoder/714570988650168"><i class="fa fa-facebook"></i></a></li>
