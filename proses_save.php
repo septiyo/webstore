@@ -1,13 +1,13 @@
 <?php
 include "koneksi.php"
 
-if(isset($_POST[SAVE])) {
+//if(isset($_POST[SAVE])) {
 
     $nama = $_POST[NAMA];
     $email = $_POST[EMAIL];
     $pesan = $_POST[PESAN];
 
-    print_r($_POST);
+   // print_r($_POST);
 
     $sql = "INSERT INTO kontak SET NAMA = '$nama',
                                 EMAIL = '$email',
@@ -33,7 +33,7 @@ if(isset($_POST[SAVE])) {
         echo "</script>";
 
     }
-}
+//}
 ?>
 
 

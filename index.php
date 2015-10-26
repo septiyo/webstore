@@ -919,7 +919,7 @@ include "koneksi.php";
 						</div>
 						<div class="col-sm-6">
 							<div class="footer-content">
-								<form role="form"  action="proses_save.php" method="post">
+								<form   action="index.php" method="post">
 									<div class="form-group has-feedback">
 										<label class="sr-only" for="name2">Name</label>
 										<input type="text" class="form-control" id="name2" placeholder="Name" name="NAMA" required>
@@ -944,7 +944,7 @@ include "koneksi.php";
 			</div>
 
 			<?php
-			if(isset($_POST[SAVE])) {
+			if(isset($_POST[SAVEE])) {
 
 				$nama = $_POST[NAMA];
 				$email = $_POST[EMAIL];

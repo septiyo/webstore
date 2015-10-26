@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="62f26c80-4371-4ba7-a4ed-c9f0c37a38cb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proses_save.php" afterPath="$PROJECT_DIR$/proses_save.php" />
     </list>
     <ignored path="bikinweb2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,10 +34,10 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.3863636">
-              <caret line="978" column="13" selection-start-line="978" selection-start-column="13" selection-end-line="978" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.31643358">
+              <caret line="981" column="13" selection-start-line="981" selection-start-column="13" selection-end-line="981" selection-end-column="13" />
               <folding>
-                <marker date="1445833594711" expanded="true" signature="42563:42700" placeholder="INSERT INTO ..." />
+                <marker date="1445834023605" expanded="true" signature="42547:42684" placeholder="INSERT INTO ..." />
               </folding>
             </state>
           </provider>
@@ -55,11 +56,11 @@
       <file leaf-file-name="proses_save.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proses_save.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.884615">
-              <caret line="35" column="1" selection-start-line="3" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
+            <state vertical-scroll-proportion="-0.65384614">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
               <folding>
-                <marker date="1445833138487" expanded="true" signature="173:310" placeholder="INSERT INTO ..." />
-                <marker date="1445833138487" expanded="true" signature="413:436" placeholder="..." />
+                <marker date="1445833902942" expanded="true" signature="177:314" placeholder="INSERT INTO ..." />
+                <marker date="1445833902942" expanded="true" signature="417:440" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -216,7 +217,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1319" height="784" extended-state="0" />
+    <frame x="-8" y="-8" width="1319" height="784" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15170771" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -265,7 +266,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1445833594711" expanded="true" signature="42563:42700" placeholder="INSERT INTO ..." />
+            <marker date="1445834023605" expanded="true" signature="42547:42684" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -280,21 +281,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proses_save.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.884615">
-          <caret line="35" column="1" selection-start-line="3" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
           <folding>
-            <marker date="1445833138487" expanded="true" signature="173:310" placeholder="INSERT INTO ..." />
-            <marker date="1445833138487" expanded="true" signature="413:436" placeholder="..." />
+            <marker date="1445833902942" expanded="true" signature="177:314" placeholder="INSERT INTO ..." />
+            <marker date="1445833902942" expanded="true" signature="417:440" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3863636">
-          <caret line="978" column="13" selection-start-line="978" selection-start-column="13" selection-end-line="978" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.31643358">
+          <caret line="981" column="13" selection-start-line="981" selection-start-column="13" selection-end-line="981" selection-end-column="13" />
           <folding>
-            <marker date="1445833594711" expanded="true" signature="42563:42700" placeholder="INSERT INTO ..." />
+            <marker date="1445834023605" expanded="true" signature="42547:42684" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
