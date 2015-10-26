@@ -737,10 +737,10 @@
 								<img src="images/testimonial-1.png" alt="">
 							</div>
 							<div class="media-body">
-								<h3 class="media-heading">You are Amazing!</h3>
+								<h3 class="media-heading">Website nya Keren</h3>
 								<blockquote>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo.</p>
-									<footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
+									<p style="text-align: justify">Awalnya ragu melihat harganya yang sangat bersaing, namun hasilnya sangat memuaskan. Saya akan memesan lagi jika membuka cabang baru..</p>
+									<footer>Zia <cite title="Source Title">Kokolagroup Hospitality Department </cite></footer>
 								</blockquote>
 							</div>
 						</div>
@@ -751,10 +751,11 @@
 								<img src="images/testimonial-2.png" alt="">
 							</div>
 							<div class="media-body">
-								<h3 class="media-heading">Yeah!</h3>
+								<h3 class="media-heading">Pelayanan memuaskan!</h3>
 								<blockquote>
-									<p>Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus.</p>
-									<footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
+									<p style="text-align: justify">Baru kali ini ada Jasa pembuatan Website yang khusus untuk Company Profile. Karena kebanyakan Mereka hanya khusus membuatkan E-Commerce.
+									Jangan Ragu Untuk Memesan Website di Webstire.septiyo.com</p>
+									<footer>Brian in <cite title="Source Title">Spv IT di PT Sentosa</cite></footer>
 								</blockquote>
 							</div>
 						</div>
@@ -765,16 +766,17 @@
 								<img src="images/testimonial-3.png" alt="">
 							</div>
 							<div class="media-body">
-								<h3 class="media-heading">Thank You!</h3>
+								<h3 class="media-heading">Company Profile adalah Hal yang Penting..!</h3>
 								<blockquote>
-									<p>Aperiam consequatur quo quis exercitationem reprehenderit suscipit iste placeat.</p>
-									<footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
+									<p style="text-align: justify">Singkat Cerita, Mereka tahu Company Profile adalah wajah Suatu Perusahaan. Jadi jangan asal-asalan dalam
+										membuat Website Company Profile. Di sini saja</p>
+									<footer>Alex <cite title="Source Title">PT Primavalve Majubersama</cite></footer>
 								</blockquote>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class="row">
+				<!--div class="row">
 					<div class="col-md-4">
 						<div class="media testimonial">
 							<div class="media-left">
@@ -803,7 +805,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div-- class="col-md-4">
 						<div class="media testimonial">
 							<div class="media-left">
 								<img src="images/testimonial-1.png" alt="">
@@ -816,7 +818,7 @@
 								</blockquote>
 							</div>
 						</div>
-					</div>
+					</div-->
 				</div>
 			</div>
 			<!-- section start -->
@@ -869,7 +871,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
-						<h1 class="text-center">10000+ Happy Clients!</h1>
+						<h1 class="text-center">1000+ Happy Clients!</h1>
 					</div>
 				</div>
 			</div>
