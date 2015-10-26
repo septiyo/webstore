@@ -915,7 +915,7 @@
 						</div>
 						<div class="col-sm-6">
 							<div class="footer-content">
-								<form role="form" id="footer-form">
+								<form role="form" id="footer-form" action="proses_save.php">
 									<div class="form-group has-feedback">
 										<label class="sr-only" for="name2">Name</label>
 										<input type="text" class="form-control" id="name2" placeholder="Name" name="name2" required>
@@ -931,7 +931,7 @@
 										<textarea class="form-control" rows="8" id="message2" placeholder="Message" name="message2" required></textarea>
 										<i class="fa fa-pencil form-control-feedback"></i>
 									</div>
-									<input type="submit" value="Send" class="btn btn-default">
+									<input type="submit" value="Send" class="btn btn-default" name="SAVE">
 								</form>
 							</div>
 						</div>
