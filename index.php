@@ -2,6 +2,10 @@
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
 <!--[if !IE]><!-->
 <html lang="en">
+<?php
+include "koneksi.php";
+
+?>
 <!--<![endif]-->
 	<head>
 		<meta charset="utf-8">
@@ -754,7 +758,7 @@
 								<h3 class="media-heading">Pelayanan memuaskan!</h3>
 								<blockquote>
 									<p style="text-align: justify">Baru kali ini ada Jasa pembuatan Website yang khusus untuk Company Profile. Karena kebanyakan Mereka hanya khusus membuatkan E-Commerce.
-									Jangan Ragu Untuk Memesan Website di Webstire.septiyo.com</p>
+									Jangan Ragu Untuk Memesan Website di Webstore.septiyo.com</p>
 									<footer>Brian in <cite title="Source Title">Spv IT di PT Sentosa</cite></footer>
 								</blockquote>
 							</div>
@@ -915,7 +919,7 @@
 						</div>
 						<div class="col-sm-6">
 							<div class="footer-content">
-								<form role="form" id="footer-form" action="proses_save.php" method="post">
+								<form role="form"  action="proses_save.php" method="post">
 									<div class="form-group has-feedback">
 										<label class="sr-only" for="name2">Name</label>
 										<input type="text" class="form-control" id="name2" placeholder="Name" name="NAMA" required>
@@ -931,7 +935,7 @@
 										<textarea class="form-control" rows="8" id="message2" placeholder="Message" name="PESAN" required></textarea>
 										<i class="fa fa-pencil form-control-feedback"></i>
 									</div>
-									<input type="submit" value="Send" class="btn btn-default" name="SAVE">
+									<input type="submit" value="Send" class="btn btn-default" name="SAVEE">
 								</form>
 							</div>
 						</div>
@@ -946,7 +950,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
-							<p class="text-center">Copyright © 2014 Worthy by <a target="_blank" href="http://htmlcoder.me">HtmlCoder</a>.</p>
+							<p class="text-center">Copyright © 2014 septiyo.com by <a target="_blank" href="http://septiyo.com">septiyo.com</a>.</p>
 						</div>
 					</div>
 				</div>
